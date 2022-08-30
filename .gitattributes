@@ -6,4 +6,6 @@ src/main/resources/**/** linguist-vendored
 
 **/*.css linguist-vendored
 
+**/*.css linguist-vendored
+
 *.java linguist-detectable=true
