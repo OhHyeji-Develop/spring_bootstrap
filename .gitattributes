@@ -1,11 +1,1 @@
-src/main/resources/**/** linguist-vendored
-
-**/*.js linguist-vendored
-
-**/*.html linguist-vendored
-
-**/*.css linguist-vendored
-
-**/*.css linguist-vendored
-
 *.java linguist-generated=true
